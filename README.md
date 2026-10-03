@@ -1,4 +1,4 @@
- #Arduino Smart House#
+ # Arduino Smart House
 
 Summary
 A multi-sensor smart home prototype designed as a second-year Electrical Engineering final project. It integrates automated window controls, a fire warning system, environment-aware lighting, corridor path tracking, and doorway occupancy detection onto a single microcontroller.
@@ -18,9 +18,9 @@ Doorway Occupancy Counter: Tracks entry detection using an overhead ultrasonic p
 
 
 # Components Used:
-Microcontroller: Arduino 
-Sensors: 2x HC-SR04 Ultrasonic Sensors, LDR Light Sensor, IR Flame Sensor
-Actuators: 2x Micro Servos, DC Motor (Ventilation Fan), Buzzer
-Drivers and Interface: L298N DC Motor Driver, Potentiometer, 3x Push Buttons
+Microcontroller: Arduino -
+Sensors: 2x HC-SR04 Ultrasonic Sensors, LDR Light Sensor, IR Flame Sensor -
+Actuators: 2x Micro Servos, DC Motor (Ventilation Fan), Buzzer -
+Drivers and Interface: L298N DC Motor Driver, Potentiometer, 3x Push Buttons -
 Outputs:LEDs (Fire, Room, and Corridor Lighting)
 
